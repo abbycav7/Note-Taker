@@ -10,7 +10,7 @@ Clone the repository from GitHub and open using Visual Studio Code.
 
 # Usage 
 
-[Deployed Site](https://abbycav7.github.io/Note-Taker/)
+[Deployed Site]()
 
 ![alt text](./public/assets/images/ScreenShot.jpg)
 
